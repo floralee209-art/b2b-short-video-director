@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B 短视频脚本编导"
+  short_description: "参考成稿特点，组合不同销售方向，写出连贯、简单、有活人感的海外短视频脚本"
+  default_prompt: "用 $b2b-short-video-director 处理我提供的素材，先给我 10 个不同的短方向，再展开我选中的版本。"
