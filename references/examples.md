@@ -29,6 +29,54 @@
 
 不要为了画面好看硬讲无关工序，也不因为解释不出宏大收益就删除好画面。画面可作节奏和过程证明，结论不能超过证据。
 
+### 服务型销售：从能力清单改成买家决策链
+
+这组教学改写来自同一个综合服务话题。下面已删除真实品牌、行业、规格、认证、价格和市场数字。它用来比较说服逻辑，不是可直接换品牌名的模板。
+
+#### 修改前：服务齐全，但主问题不清楚
+
+```text
+Wait. Are you still buying a complete project one item at a time?
+That is a waste of time.
+
+We offer equipment, accessories, customization, layout, shipping, installation, and after-sales support.
+Our materials are strong. We meet recognized standards. Our price is competitive.
+
+Send us your plan and budget.
+We will take care of everything.
+```
+
+这版每句可能都正确，但把服务范围、产品质量、价格和售后同时放进一条脚本。开头只说“浪费时间”，没有说明买家为什么会这样采购、会付出什么业务代价。后面的信任点也没有集中证明一个主张。
+
+#### 修改后：一个决定、一条后果、一个负责人
+
+```text
+Listen. If you are planning a commercial project, do not split the order just to save money.
+Different suppliers can mean different standards and more people to call when something goes wrong.
+
+That is why we manage the products, checks, delivery, and support through one team.
+For the parts we make, we control production.
+For partner-supplied parts, we set the requirements and complete the final checks.
+If we supply it, we stay responsible.
+
+One partner. One standard. One support team.
+
+Send us your project plan.
+We will build one coordinated solution.
+```
+
+修改后不是因为句子更短就自动更好，而是每一段都推进同一个购买决定：
+
+- 先说买家正在做什么，以及他为什么这么做。
+- 把笼统的“麻烦”改成可理解的业务后果，如标准不一、交接变多或问题无人负责。
+- 品牌在问题成立后才出现，每项能力都回答前面已提出的风险。
+- 信任点集中证明当前承诺：谁设定要求、谁检查、出问题谁负责。
+- CTA 只要一个主要动作，并给出与当前话题直接相关的结果。
+
+对所有脚本都可迁移的不是上面的行业、口号或段落顺序，而是五个判断：**具体买家在做什么决定？主要后果是什么？每个卖点为什么出现？凭什么相信？下一步是什么？**
+
+不要机械复制“多供应商”冲突、一句三段口号或买家抱怨开头。不同话题可以用不同顺序和说话人；只要上述五个问题都有清楚答案。
+
 ### 其他可用形态
 
 | 素材 | 可借鉴的写法 | 不应机械带入的内容 |
